@@ -61,7 +61,7 @@ https://public.tableau.com/app/profile/roman.hresko/viz/SuperstoreSales_17430974
 - Воронка онбордингу користувачів на сайті, яка дає можливість оцінити на якому етапі онбордингу є проблеми, де "відсіюється" найбільша кількість користувачів, який етап потрібно покращити щоб збільшити конверсію.
 - Додано інтерактивність за допомогою параметра який дає змогу аналізувати воронку онбордингу, а саме скільки днів в якому місяці на певному етапі проходить до здійснення першої оплати, це дає змогу здійснити більш глибокий аналіз.
 
-  Посилання на Tableau Public
+Посилання на Tableau Public
 https://public.tableau.com/app/profile/roman.hresko/viz/HW_5_17434895805480/Ecommercefunnel
 ![Dashboard 5_ Ecommerce_funnel](https://github.com/user-attachments/assets/f52a9b05-da8e-4aea-b363-b3ecff537e5b)
 
@@ -82,6 +82,8 @@ https://public.tableau.com/app/profile/roman.hresko/viz/HW_5_17434895805480/Ecom
 - Максмальний час на обслуговування в розрізі періоду (для пошуку проблемних днів)
 
 
+Посилання на Tableau Public
+https://public.tableau.com/app/profile/roman.hresko/viz/Skelartask2/Dashboard2
 ![Dashboard 6_Customer support department1](https://github.com/user-attachments/assets/2c3bb897-b8f8-4524-be61-a083e2867ca5)
 ![Dashboard 6_Customer support department2](https://github.com/user-attachments/assets/73bbf51a-7eff-478a-a725-b83319fe96aa)
 
