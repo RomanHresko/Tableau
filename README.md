@@ -10,9 +10,7 @@
 Посилання на Tableau Public 
 https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Dashboard3_2
 
-
-
-
+![Dashboard 1__Revenue by location   product](https://github.com/user-attachments/assets/1f1b27c7-ddac-4950-a69d-bca9d3abb4b6)
 
 
 
