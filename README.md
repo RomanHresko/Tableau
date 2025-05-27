@@ -9,7 +9,6 @@
 
 Посилання на Tableau Public 
 https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Dashboard3_2
-
 ![Dashboard 1__Revenue by location   product](https://github.com/user-attachments/assets/1f1b27c7-ddac-4950-a69d-bca9d3abb4b6)
 
 
@@ -37,6 +36,9 @@ https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Das
 
 Посилання на Tableau Public 
 https://public.tableau.com/app/profile/roman.hresko/viz/Task3_17430832166150/Dashboard2
+![Dashboard 3_ players activity](https://github.com/user-attachments/assets/02754f24-b41a-4c5d-8a19-368e1f994d35)
+
+
 
 ## 4. Superstore sales
 Дашборд дає змогу відслідковувати:
@@ -47,6 +49,9 @@ https://public.tableau.com/app/profile/roman.hresko/viz/Task3_17430832166150/Das
 
 Посилання на Tableau Public 
 https://public.tableau.com/app/profile/roman.hresko/viz/SuperstoreSales_17430974940670/Dashboard2
+![Dashboard 4_ Superstore sales](https://github.com/user-attachments/assets/086cea49-816c-41ea-8736-96964da41ac7)
+
+
 
 ## 5. E-commerce funnel
 Дозволяє виконувати аналіз взаємодії користувачів з продуктом, а саме:
@@ -58,6 +63,7 @@ https://public.tableau.com/app/profile/roman.hresko/viz/SuperstoreSales_17430974
 
   Посилання на Tableau Public
 https://public.tableau.com/app/profile/roman.hresko/viz/HW_5_17434895805480/Ecommercefunnel
+![Dashboard 5_ Ecommerce_funnel](https://github.com/user-attachments/assets/f52a9b05-da8e-4aea-b363-b3ecff537e5b)
 
 
 ## 6. Customer support department
@@ -74,6 +80,10 @@ https://public.tableau.com/app/profile/roman.hresko/viz/HW_5_17434895805480/Ecom
 - Кількість замовлень (+ у відсотках) що були прийняті в роботу з моменту здійснення замовлення клієнтом на сайті в межах стандартнів компанії (15 хв на прийняття замовлення в роботу).
 - Кількість замовлень (+ у відсотках) що були прийняті в роботу з моменту здійснення замовлення клієнтом на сайті в межах стандартнів компанії (45 хв  максимальний час на прийняття замовлення в роботу).
 - Максмальний час на обслуговування в розрізі періоду (для пошуку проблемних днів)
+
+
+![Dashboard 6_Customer support department1](https://github.com/user-attachments/assets/2c3bb897-b8f8-4524-be61-a083e2867ca5)
+![Dashboard 6_Customer support department2](https://github.com/user-attachments/assets/73bbf51a-7eff-478a-a725-b83319fe96aa)
 
 
 
