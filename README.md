@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Das
  - Total revenue diff - Прибуток в розрізі періодчу часу з розрахунком відсоткового співвідношення прибутку діючого місяця до попереднього.
  - Когортний аналіз - згруповано користувачів на основі їхньої активності в частині здійснення покупок. Когортний аналіз дає змогу: оцінити утримання користувачів із часом, визначати зміни у лояльності клієнтів, аналізувати ефективність маркетингових стратегій.
   
-Посилання на Tableau Public 
+Посилання на Tableau Public ( див. Дашборд 3.4)
 https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Dashboard3_2
 [![Dashboard 2_Revenue growth   Cohort analysis dashboard](https://github.com/user-attachments/assets/4bf8be90-662b-4c20-b5e3-6fd6ca8a24d6)](https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Dashboard3_2)
 
