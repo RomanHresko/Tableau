@@ -23,7 +23,7 @@ https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Das
   
 Посилання на Tableau Public 
 https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Dashboard3_2
-![Dashboard 2_Revenue growth   Cohort analysis dashboard](https://github.com/user-attachments/assets/4bf8be90-662b-4c20-b5e3-6fd6ca8a24d6)
+[![Dashboard 2_Revenue growth   Cohort analysis dashboard](https://github.com/user-attachments/assets/4bf8be90-662b-4c20-b5e3-6fd6ca8a24d6)](https://public.tableau.com/app/profile/roman.hresko/viz/Task1_17428871492920/Dashboard3_2)
 
 
 
